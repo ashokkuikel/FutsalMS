@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E5B235D8-79C8-43B9-8ADA-34BC222DD941}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Banepa_Futsal</RootNamespace>
+    <AssemblyName>Banepa Futsal</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\pc\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.1.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>instant_messanger.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>943AA14AFD123CBBD4EDC3F2E48F7CC9E72B4A3D</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Banepa Futsal_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Banepa_Futsal.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox1.Designer.cs">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilling.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilling.Designer.cs">
+      <DependentUpon>frmBilling.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmdetailsview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdetailsview.Designer.cs">
+      <DependentUpon>frmdetailsview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmbooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbooking.Designer.cs">
+      <DependentUpon>frmbooking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmcancelbook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcancelbook.Designer.cs">
+      <DependentUpon>frmcancelbook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmcancelbooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcancelbooking.Designer.cs">
+      <DependentUpon>frmcancelbooking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmdetailsvie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdetailsvie.Designer.cs">
+      <DependentUpon>frmdetailsvie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPackageCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPackageCreate.Designer.cs">
+      <DependentUpon>frmPackageCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPackageDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPackageDelete.Designer.cs">
+      <DependentUpon>frmPackageDelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPackageUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPackageUpdate.Designer.cs">
+      <DependentUpon>frmPackageUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmrateview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmrateview.Designer.cs">
+      <DependentUpon>frmrateview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserCreate.Designer.cs">
+      <DependentUpon>frmUserCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserUpdate.Designer.cs">
+      <DependentUpon>frmUserUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewSchedule.Designer.cs">
+      <DependentUpon>frmViewSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackageView.Designer.cs">
+      <DependentUpon>PackageView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilling.resx">
+      <DependentUpon>frmBilling.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdetailsview.resx">
+      <DependentUpon>frmdetailsview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbooking.resx">
+      <DependentUpon>frmbooking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcancelbook.resx">
+      <DependentUpon>frmcancelbook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcancelbooking.resx">
+      <DependentUpon>frmcancelbooking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdetailsvie.resx">
+      <DependentUpon>frmdetailsvie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPackageCreate.resx">
+      <DependentUpon>frmPackageCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPackageDelete.resx">
+      <DependentUpon>frmPackageDelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPackageUpdate.resx">
+      <DependentUpon>frmPackageUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmrateview.resx">
+      <DependentUpon>frmrateview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserCreate.resx">
+      <DependentUpon>frmUserCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserUpdate.resx">
+      <DependentUpon>frmUserUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewSchedule.resx">
+      <DependentUpon>frmViewSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackageView.resx">
+      <DependentUpon>PackageView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Banepa Futsal_TemporaryKey.pfx" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLogicLayer\BusinessLogicLayer.csproj">
+      <Project>{9ef22f06-5a65-4f05-a2aa-73a78f9668cd}</Project>
+      <Name>BusinessLogicLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Amazing_Beautiful_3D_Football_Sports_Game_Images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\schedule.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bookingcancel2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\booking_details.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="instant_messanger.ico" />
+    <None Include="Resources\rate.jpg" />
+    <None Include="Resources\download %281%29.png" />
+    <None Include="Resources\1111.png" />
+    <None Include="Resources\download_ayX_icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

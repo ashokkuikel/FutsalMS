@@ -1,0 +1,44 @@
+C:\Users\satkar\Desktop\C sharp project\Banepa Futsal\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\satkar\Desktop\C sharp project\Banepa Futsal\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\satkar\Desktop\C sharp project\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\satkar\Desktop\C sharp project\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\satkar\Desktop\C sharp project\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\p\p\Banepa Futsal\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\p\p\Banepa Futsal\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\p\p\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\p\p\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\p\p\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\p\p\final2_29_7_07\Banepa Futsal\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\p\p\final2_29_7_07\Banepa Futsal\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\p\p\final2_29_7_07\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\p\p\final2_29_7_07\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\p\p\final2_29_7_07\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+G:\RESOURCE\Bnpfutsal3_6_2_8_pm\Banepa Futsal\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+G:\RESOURCE\Bnpfutsal3_6_2_8_pm\Banepa Futsal\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+G:\RESOURCE\Bnpfutsal3_6_2_8_pm\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+G:\RESOURCE\Bnpfutsal3_6_2_8_pm\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+G:\RESOURCE\Bnpfutsal3_6_2_8_pm\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\showoff\Bnpfutsal3_6_2_8_pm\Banepa Futsal\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\showoff\Bnpfutsal3_6_2_8_pm\Banepa Futsal\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\showoff\Bnpfutsal3_6_2_8_pm\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\showoff\Bnpfutsal3_6_2_8_pm\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\showoff\Bnpfutsal3_6_2_8_pm\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Banepa Futsal\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Banepa Futsal\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\shishir_6_10_5_36pm\Banepa Futsal\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\shishir_6_10_5_36pm\Banepa Futsal\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\shishir_6_10_5_36pm\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\shishir_6_10_5_36pm\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\shishir_6_10_5_36pm\Banepa Futsal\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\shishir_6_10_5_36pm\final\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\shishir_6_10_5_36pm\final\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\shishir_6_10_5_36pm\final\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\shishir_6_10_5_36pm\final\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+E:\desk\shishir_6_10_5_36pm\final\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\desk\shishir_6_10_5_36pm\final\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\desk\shishir_6_10_5_36pm\final\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+E:\desk\shishir_6_10_5_36pm\final\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\desk\shishir_6_10_5_36pm\final\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

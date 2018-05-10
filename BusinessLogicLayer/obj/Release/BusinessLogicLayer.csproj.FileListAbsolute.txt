@@ -1,0 +1,4 @@
+D:\p\p\final2_29_7_07\Banepa Futsal\BusinessLogicLayer\bin\Release\BusinessLogicLayer.dll
+D:\p\p\final2_29_7_07\Banepa Futsal\BusinessLogicLayer\bin\Release\BusinessLogicLayer.pdb
+D:\p\p\final2_29_7_07\Banepa Futsal\BusinessLogicLayer\obj\Release\BusinessLogicLayer.dll
+D:\p\p\final2_29_7_07\Banepa Futsal\BusinessLogicLayer\obj\Release\BusinessLogicLayer.pdb
